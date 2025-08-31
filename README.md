@@ -1,5 +1,7 @@
 # CYN AI Agents Hub: Revolutionizing Authentication Testing
 
+> **📖 Full White Paper**: [Download PDF](https://github.com/Cyn-ai/Password-validation-agent-writeup/blob/main/Revolutionizing%20Authentication%20Testing%20-%20Article.pdf)
+
 ## Overview
 
 CYN AI Agents Hub is an intelligent platform that transforms password validation workflows through a revolutionary three-tier architecture, combining containerized microservices, intelligent pattern recognition, and advanced AI vision capabilities to deliver unprecedented accuracy and scale in authentication testing.
@@ -101,7 +103,5 @@ The platform deploys in minutes and scales instantly to meet enterprise needs:
 - **Minimal Rework** required due to high success rates
 
 ---
-
-**For technical data - https://github.com/Cyn-ai/Password-validation-agent-writeup/blob/main/Revolutionizing%20Authentication%20Testing%20-%20Article.pdf**
 
 *The future of authentication testing is here. Transform your validation workflows with intelligent automation that learns, adapts, and scales.*
