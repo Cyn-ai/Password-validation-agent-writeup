@@ -102,4 +102,6 @@ The platform deploys in minutes and scales instantly to meet enterprise needs:
 
 ---
 
+**For technical data - https://github.com/Cyn-ai/Password-validation-agent-writeup/blob/main/Revolutionizing%20Authentication%20Testing%20-%20Article.pdf**
+
 *The future of authentication testing is here. Transform your validation workflows with intelligent automation that learns, adapts, and scales.*
